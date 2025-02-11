@@ -3,7 +3,7 @@
 import { Line, LineChart, ResponsiveContainer, Tooltip } from "recharts";
 
 const data = [
-  { date: "Mar", value: 300 },
+  { date: "Mar", value: 200 },
   { date: "Apr", value: 350 },
   { date: "May", value: 200 },
   { date: "Jun", value: 400 },
